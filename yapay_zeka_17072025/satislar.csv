@@ -1,0 +1,101 @@
+siparis_id,tarih,urun,kategori,adet,fiyat,sehir,odeme_tipi
+1,2024-01-01,Cetvel,Okul,1.0,28.79,Antalya,Havale
+2,2024-01-02,Dosya,Kırtasiye,2.0,61.04,Antalya,Nakit
+3,2024-01-03,Silgi,Ofis,,97.99,Antalya,Havale
+4,2024-01-04,Dosya,Kırtasiye,6.0,51.24,İzmir,Nakit
+5,2024-01-05,Dosya,Okul,7.0,91.08,Bursa,Havale
+6,2024-01-06,Defter,Okul,5.0,,Ankara,Nakit
+7,2024-01-07,Silgi,Ofis,1.0,38.26,İzmir,Kredi Kartı
+8,2024-01-08,Silgi,Kırtasiye,1.0,66.28,Antalya,Nakit
+9,2024-01-09,Silgi,Okul,3.0,68.55,İstanbul,Nakit
+10,2024-01-10,Dosya,Ofis,2.0,87.1,Antalya,Kredi Kartı
+11,2024-01-11,Cetvel,Okul,5.0,26.87,Bursa,Nakit
+12,2024-01-12,Silgi,Okul,6.0,52.42,Antalya,Kredi Kartı
+13,2024-01-13,Dosya,Kırtasiye,7.0,59.34,İstanbul,Nakit
+14,2024-01-14,Defter,Okul,4.0,78.01,Bursa,Havale
+15,2024-01-15,Cetvel,Kırtasiye,7.0,9.14,Antalya,Havale
+16,2024-01-16,Defter,Okul,8.0,99.48,Bursa,Nakit
+17,2024-01-17,Cetvel,Ofis,1.0,49.64,Ankara,Nakit
+18,2024-01-18,Dosya,Okul,6.0,31.56,Ankara,Nakit
+19,2024-01-19,Kalem,Kırtasiye,8.0,88.93,Antalya,Havale
+20,2024-01-20,Cetvel,Kırtasiye,5.0,76.03,Bursa,Nakit
+21,2024-01-21,Defter,Ofis,4.0,95.54,İstanbul,Havale
+22,2024-01-22,Dosya,Okul,2.0,36.42,Antalya,Kredi Kartı
+23,2024-01-23,Cetvel,Okul,6.0,57.51,Ankara,Havale
+24,2024-01-24,Kalem,Ofis,6.0,59.37,Ankara,Havale
+25,2024-01-25,Kalem,Okul,1.0,,Antalya,Kredi Kartı
+26,2024-01-26,Silgi,Okul,9.0,12.16,Bursa,Havale
+27,2024-01-27,Silgi,Kırtasiye,6.0,34.04,Ankara,Nakit
+28,2024-01-28,Defter,Okul,3.0,23.14,Bursa,Nakit
+29,2024-01-29,Cetvel,Okul,4.0,30.51,Ankara,Havale
+30,2024-01-30,Cetvel,Ofis,4.0,51.1,Ankara,Nakit
+31,2024-01-31,Silgi,Ofis,3.0,40.41,İzmir,Havale
+32,2024-02-01,Cetvel,Kırtasiye,,42.5,Ankara,Nakit
+33,2024-02-02,Cetvel,Okul,3.0,,İstanbul,Nakit
+34,2024-02-03,Kalem,Okul,4.0,93.35,Antalya,Havale
+35,2024-02-04,Silgi,Okul,7.0,11.69,Antalya,Nakit
+36,2024-02-05,Dosya,Kırtasiye,4.0,24.85,Bursa,Havale
+37,2024-02-06,Silgi,Kırtasiye,9.0,68.76,Ankara,Nakit
+38,2024-02-07,Dosya,Ofis,1.0,39.07,İstanbul,Nakit
+39,2024-02-08,Kalem,Kırtasiye,,29.15,Bursa,Kredi Kartı
+40,2024-02-09,Defter,Okul,7.0,33.05,İzmir,Kredi Kartı
+41,2024-02-10,Cetvel,Okul,2.0,35.64,Bursa,Havale
+42,2024-02-11,Kalem,Kırtasiye,8.0,85.62,Bursa,Kredi Kartı
+43,2024-02-12,Cetvel,Okul,1.0,17.98,Ankara,Havale
+44,2024-02-13,Defter,Okul,,72.35,İzmir,Kredi Kartı
+45,2024-02-14,Defter,Kırtasiye,9.0,57.52,Bursa,Nakit
+46,2024-02-15,Kalem,Kırtasiye,2.0,33.17,İstanbul,Havale
+47,2024-02-16,Defter,Okul,7.0,44.88,İstanbul,Havale
+48,2024-02-17,Dosya,Okul,3.0,29.34,Antalya,Nakit
+49,2024-02-18,Defter,Okul,7.0,63.09,İzmir,Havale
+50,2024-02-19,Cetvel,Ofis,9.0,12.75,İzmir,Havale
+51,2024-02-20,Cetvel,Ofis,4.0,5.49,Antalya,Kredi Kartı
+52,2024-02-21,Cetvel,Ofis,1.0,64.65,Bursa,Havale
+53,2024-02-22,Cetvel,Kırtasiye,2.0,23.46,İzmir,Nakit
+54,2024-02-23,Dosya,Ofis,1.0,11.74,İstanbul,Kredi Kartı
+55,2024-02-24,Silgi,Kırtasiye,5.0,42.69,İstanbul,Kredi Kartı
+56,2024-02-25,Kalem,Kırtasiye,5.0,9.82,Ankara,Nakit
+57,2024-02-26,Cetvel,Ofis,7.0,89.23,İzmir,Nakit
+58,2024-02-27,Defter,Ofis,9.0,7.62,Bursa,Kredi Kartı
+59,2024-02-28,Cetvel,Ofis,9.0,59.99,Antalya,Havale
+60,2024-02-29,Defter,Okul,3.0,46.66,Antalya,Kredi Kartı
+61,2024-03-01,Defter,Ofis,,68.84,Bursa,Nakit
+62,2024-03-02,Cetvel,Okul,3.0,36.17,Ankara,Kredi Kartı
+63,2024-03-03,Dosya,Kırtasiye,4.0,,Antalya,Nakit
+64,2024-03-04,Defter,Okul,8.0,98.27,İzmir,Kredi Kartı
+65,2024-03-05,Defter,Ofis,6.0,84.7,Ankara,Havale
+66,2024-03-06,Cetvel,Kırtasiye,8.0,86.74,İzmir,Kredi Kartı
+67,2024-03-07,Defter,Kırtasiye,1.0,28.77,İstanbul,Kredi Kartı
+68,2024-03-08,Defter,Kırtasiye,8.0,8.69,Ankara,Nakit
+69,2024-03-09,Cetvel,Okul,4.0,33.81,Antalya,Nakit
+70,2024-03-10,Cetvel,Ofis,1.0,56.02,Ankara,Nakit
+71,2024-03-11,Kalem,Kırtasiye,8.0,36.03,Ankara,Kredi Kartı
+72,2024-03-12,Dosya,Kırtasiye,4.0,83.65,Ankara,Havale
+73,2024-03-13,Dosya,Kırtasiye,6.0,30.8,Ankara,Nakit
+74,2024-03-14,Defter,Okul,8.0,96.7,İzmir,Nakit
+75,2024-03-15,Dosya,Okul,4.0,48.44,İstanbul,Kredi Kartı
+76,2024-03-16,Defter,Ofis,3.0,84.99,Bursa,Nakit
+77,2024-03-17,Kalem,Okul,9.0,23.47,Ankara,Havale
+78,2024-03-18,Cetvel,Kırtasiye,3.0,44.08,Antalya,Havale
+79,2024-03-19,Cetvel,Ofis,9.0,71.45,Ankara,Nakit
+80,2024-03-20,Cetvel,Kırtasiye,2.0,18.14,Antalya,Nakit
+81,2024-03-21,Dosya,Kırtasiye,2.0,17.61,İzmir,Kredi Kartı
+82,2024-03-22,Kalem,Okul,2.0,97.11,Antalya,Havale
+83,2024-03-23,Dosya,Ofis,6.0,72.89,Bursa,Havale
+84,2024-03-24,Dosya,Okul,3.0,8.9,İstanbul,Nakit
+85,2024-03-25,Kalem,Okul,9.0,42.89,Antalya,Kredi Kartı
+86,2024-03-26,Kalem,Ofis,4.0,46.18,Antalya,Havale
+87,2024-03-27,Kalem,Kırtasiye,1.0,75.68,İstanbul,Havale
+88,2024-03-28,Kalem,Kırtasiye,4.0,28.83,Bursa,Kredi Kartı
+89,2024-03-29,Cetvel,Ofis,1.0,22.51,Ankara,Kredi Kartı
+90,2024-03-30,Silgi,Kırtasiye,5.0,12.68,Antalya,Havale
+91,2024-03-31,Silgi,Ofis,4.0,45.69,İstanbul,Havale
+92,2024-04-01,Kalem,Ofis,8.0,,İzmir,Kredi Kartı
+93,2024-04-02,Silgi,Okul,8.0,10.53,İstanbul,Havale
+94,2024-04-03,Silgi,Ofis,7.0,91.95,İzmir,Nakit
+95,2024-04-04,Kalem,Okul,3.0,47.02,Bursa,Nakit
+96,2024-04-05,Silgi,Kırtasiye,1.0,27.78,Ankara,Kredi Kartı
+97,2024-04-06,Dosya,Kırtasiye,1.0,13.92,İstanbul,Kredi Kartı
+98,2024-04-07,Defter,Kırtasiye,3.0,22.37,Antalya,Kredi Kartı
+99,2024-04-08,Defter,Kırtasiye,6.0,93.79,Bursa,Nakit
+100,2024-04-09,Kalem,Okul,7.0,65.64,İstanbul,Havale
